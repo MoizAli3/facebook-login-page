@@ -2,11 +2,10 @@ body{
     background-color: #f2f4f7;
 }
 
-.py-5{
-    padding: 9rem 0 !important;
+.extra-pad{
+    padding: 9rem 0;
 }
 
 .btn-success{
     background-color: #42b72a !important;
 }
-
